@@ -38,6 +38,8 @@ dependencies:
   pedometer: ^4.0.2
   permission_handler: ^11.3.1
   health: ^10.2.0
+  flutter_lazy_listview: ^1.0.1
+  http: ^1.2.2
 
 dev_dependencies:
   flutter_test:
